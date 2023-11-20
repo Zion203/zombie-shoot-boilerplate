@@ -73,7 +73,7 @@ var timer = setInterval(function () {
 
 // Iteration 6: Write a code to start the game by calling the first zombie
 
-makeZombie(zombieId);
+makeZombie(zId);
 
 // Iteration 7: Write the helper function to get random integer
 
